@@ -24,6 +24,7 @@ $query = mysqli_query($connect, $sql);
     <title>Hotels NG | First Task</title>
 </head>
 <body>
+<h3>Hotels NG First Task by Atauba Prince M.</h3>
 <?php
 
 echo '<table>
